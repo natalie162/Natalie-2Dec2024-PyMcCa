@@ -49,9 +49,9 @@
 # intro("John", "20")
 # intro("James", "25")   
 
-def sumOf(num1, num2):
-    print(num1 + num2)
+# def sumOf(num1, num2):
+#     print(num1 + num2)
 
-sumOf(5, 10) 
-sumOf(20, 30) 
-sumOf(40, 5)
+# sumOf(5, 10) 
+# sumOf(20, 30) 
+# sumOf(40, 5)
